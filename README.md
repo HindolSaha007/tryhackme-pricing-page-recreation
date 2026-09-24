@@ -9,4 +9,4 @@ A beginner HTML project recreating parts of the TryHackMe pricing for practice p
 5. Basic Page structure
 
 ## Disclaimer
-This is an unofficial educational project created for learning purposes HTML basics. It is not affiliated with or endorsed by TryHackMe.
+This is an unofficial educational project created for learning HTML basics. It is not affiliated with or endorsed by TryHackMe.
